@@ -1,5 +1,5 @@
 {
-  "name": "TaskManager",
+  "name": "taskr_app",
   "integrations": {
     "capacitor": {}
   },
